@@ -6,3 +6,4 @@ An open-world third person tank battle game with simple AI, terrain and advanced
 
 * 01 Intro, Notes and Assets
 * 02 Game Design Document
+* 03 Setting up a GitHub "Repo"
